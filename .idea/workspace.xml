@@ -41,9 +41,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6c8869c-c73a-4c96-96d7-b60aa86b7e80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_04_2020_22_33_[Default_Changelist]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_04_2020_20_07_[Default_Changelist]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car/customer/Add_something.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,20 +78,52 @@
       <option name="project" value="LOCAL" />
       <updated>1587805228093</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cos do dodania">
+      <created>1587805703582</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587805703582</updated>
+    </task>
+    <task id="LOCAL-00003" summary="cos do dodania">
+      <created>1587805782646</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587805782646</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="jeszcze_jedna_klasa_do sprawdzenia" />
-    <option name="LAST_COMMIT_MESSAGE" value="jeszcze_jedna_klasa_do sprawdzenia" />
+    <MESSAGE value="cos do dodania" />
+    <option name="LAST_COMMIT_MESSAGE" value="cos do dodania" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="225" y="0" key="CommitChangelistDialog2" timestamp="1587805224781">
+    <state x="420" y="45" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1587805921105">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="225" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1587805224781" />
+    <state x="420" y="45" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1600.860@0.0.1600.860" timestamp="1587805921105" />
+    <state x="225" y="0" key="CommitChangelistDialog2" timestamp="1587805780677">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="225" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1587805780677" />
+    <state x="145" y="68" key="DiffContextDialog" timestamp="1587805695935">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="145" y="68" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1587805695935" />
   </component>
 </project>
