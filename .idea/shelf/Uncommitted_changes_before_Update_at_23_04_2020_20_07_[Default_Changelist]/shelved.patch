@@ -1,0 +1,10 @@
+Index: src/Car/KontrolnaKlasaDoGit.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/Car/KontrolnaKlasaDoGit.java	(date 1587668843907)
++++ src/Car/KontrolnaKlasaDoGit.java	(date 1587668843907)
+@@ -0,0 +1,2 @@
++public class KontrolnaKlasaDoGit {
++}
